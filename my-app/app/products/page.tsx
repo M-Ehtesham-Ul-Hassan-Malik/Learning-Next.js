@@ -4,7 +4,6 @@ import Link from "next/link";
 export default function Products(){
     return(
         <>
-            <Nav />
             <h1>Products List</h1>
 
             <ul>
